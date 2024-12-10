@@ -43,6 +43,8 @@ This project is a simple interactive website designed to help users understand a
    ```
 3. Open the `index.html` file in a web browser to start using the application.
 
+4. You can split the code and images into different folders src and public to make navigation easy just change the paths afterwards accordingly.
+
 ---
 
 ## **Screenshots**
